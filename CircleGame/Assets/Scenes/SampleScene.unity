@@ -1532,6 +1532,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: PlayerArt
       objectReference: {fileID: 0}
+    - target: {fileID: 2260143492549615725, guid: ef9da56ce5bab924aadec00e77ad4673, type: 3}
+      propertyPath: InitialModule.startSizeY.minMaxState
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2260143492549615725, guid: ef9da56ce5bab924aadec00e77ad4673, type: 3}
+      propertyPath: InitialModule.startSizeZ.minMaxState
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 5709809190748123585, guid: ef9da56ce5bab924aadec00e77ad4673, type: 3}
       propertyPath: damping
       value: 1.5
@@ -1543,6 +1551,14 @@ PrefabInstance:
     - target: {fileID: 5709809190748123585, guid: ef9da56ce5bab924aadec00e77ad4673, type: 3}
       propertyPath: sidewaysKick
       value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 6476411239263103379, guid: ef9da56ce5bab924aadec00e77ad4673, type: 3}
+      propertyPath: InitialModule.startSizeY.minMaxState
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6476411239263103379, guid: ef9da56ce5bab924aadec00e77ad4673, type: 3}
+      propertyPath: InitialModule.startSizeZ.minMaxState
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 8165749055627786709, guid: ef9da56ce5bab924aadec00e77ad4673, type: 3}
       propertyPath: m_LocalPosition.x
