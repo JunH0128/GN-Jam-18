@@ -1837,7 +1837,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dcc8e5f74af9ef8448ae7e3280fbc6e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GoToGameOver
-  coinsToWin: 2
+  coinsToWin: 25
   gameOverSceneName: GameOverWin
 --- !u!1001 &415240975
 PrefabInstance:
@@ -4010,7 +4010,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6577867891596795779, guid: 1ca25c9f8fd72524ea273f1c5c7c6903, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -9.12
+      value: -9.97
       objectReference: {fileID: 0}
     - target: {fileID: 6577867891596795779, guid: 1ca25c9f8fd72524ea273f1c5c7c6903, type: 3}
       propertyPath: m_LocalPosition.y
