@@ -1837,8 +1837,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dcc8e5f74af9ef8448ae7e3280fbc6e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GoToGameOver
-  coinsToWin: 25
-  gameOverSceneName: GameOver
+  coinsToWin: 2
+  gameOverSceneName: GameOverWin
 --- !u!1001 &415240975
 PrefabInstance:
   m_ObjectHideFlags: 0
