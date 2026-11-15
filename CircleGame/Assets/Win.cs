@@ -4,7 +4,7 @@ using UnityEngine.SceneManagement;
 public class GoToGameOver : MonoBehaviour
 {
     public int coinsToWin = 25;
-    public string gameOverSceneName = "GameOver"; 
+    public string gameOverSceneName = "GameOverWin"; 
 
     private bool hasLoaded = false;
 
